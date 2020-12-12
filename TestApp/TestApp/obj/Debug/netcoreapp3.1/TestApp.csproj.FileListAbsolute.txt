@@ -11,3 +11,5 @@ D:\project\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInp
 D:\project\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
 D:\project\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
 D:\project\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
+D:\project\TestApp\TestApp\bin\Debug\netcoreapp3.1\PresentationFramework.dll
+D:\project\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
