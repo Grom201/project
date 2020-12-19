@@ -1349,11 +1349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
+      "projectUniqueName": "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
       "projectName": "LabServiceCore",
-      "projectPath": "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
+      "projectPath": "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
       "packagesPath": "C:\\Users\\Grom201\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabServiceCore\\obj\\",
+      "outputPath": "D:\\project\\LabWinService\\LabServiceCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Grom201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1370,8 +1370,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj"
+            "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj": {
+              "projectPath": "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj"
             }
           }
         }

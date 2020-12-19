@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5p/BkWi5GhjrsW8p0lEw9d/Z0WZVaycTIsZUdFbpVm6/KQSm7HlWatvdbW3VjlbPbCc9sOGcZGB6eVMV+k0nLA==",
+  "dgSpecHash": "DUNvLZHrHDKbK+ns7HetQyLzQk8LWAqxSg9OrXbpYzlaicsjoQHtzHrxX+uCr7zlhrjHQUTGuV7ipFcyQOX3Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grom201\\source\\repos\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
+  "projectFilePath": "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grom201\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\Grom201\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
